@@ -1,0 +1,19 @@
+
+c
+3src/main/java/com/lambarki/Predicate/Predicate.java,f\5\f55efc03478033be9e06083aa683fba1e549d54f
+^
+.src/main/java/com/lambarki/Predicate/Main.java,3\b\3b3a98c2d1f33f3181441f20ee5270a3d13ce4a8
+a
+1src/main/java/com/lambarki/function/function.java,e\5\e51cb411246fbba36550c924119ab12885ebc99b
+]
+-src/main/java/com/lambarki/function/Main.java,8\7\87d647f2fcd93c396de2b04b7ff649e293ec04fb
+a
+1src/main/java/com/lambarki/consumer/Consumer.java,2\0\20146f2098af09cbd94396354921da4b3e6683fe
+Z
+*src/main/java/com/lambarki/model/User.java,0\4\042e48bda6ce9db3727628d1f6d9f62e774843f8
+]
+-src/main/java/com/lambarki/consumer/Main.java,7\0\70451bb4c007b69d473f9132de09a28b92ad711b
+e
+5src/main/java/com/lambarki/comparator/Comparator.java,f\7\f79a5c61a78d658133554194d2acdf97f854e240
+9
+	Readme.md,0\c\0c1945d7443c2e154bd3e421c0d438bd4086d8c3
